@@ -23,6 +23,7 @@ public class Ex01 {
                 break;
             }
         }
+        scanner.close();
     }
     
 }
